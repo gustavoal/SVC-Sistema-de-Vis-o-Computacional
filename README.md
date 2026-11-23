@@ -127,54 +127,17 @@ O fluxo de utilização da plataforma pode ser resumido nas seguintes etapas:
 8. Consultar os resultados nas galerias correspondentes.
 9. Acessar os mosaicos georreferenciados, quando disponíveis.
 
-## 6. Tecnologias e arquitetura
 
-Esta seção deverá apresentar as tecnologias utilizadas no desenvolvimento da plataforma e a arquitetura de execução da aplicação.
-
-Serão documentados:
-
-- Linguagens de programação;
-- Frameworks e bibliotecas;
-- Modelos de Inteligência Artificial;
-- Estrutura de armazenamento dos arquivos;
-- Serviços de infraestrutura;
-- Comunicação entre a interface e os componentes de processamento;
-- Fluxo de execução dos métodos computacionais.
-
-## 7. Instalação e execução
-
-As instruções de instalação e execução serão apresentadas de acordo com a estrutura definitiva do projeto e suas dependências.
-
-Esta seção deverá contemplar:
-
-- Pré-requisitos;
-- Configuração do ambiente;
-- Instalação das dependências;
-- Configuração das variáveis de ambiente;
-- Disponibilização dos modelos computacionais;
-- Inicialização da aplicação;
-- Execução dos métodos de processamento.
-
-## 8. Estrutura do repositório
-
-A organização dos diretórios e arquivos será documentada conforme a estrutura efetiva do código-fonte disponibilizado neste repositório.
-
-## 9. Dados e modelos computacionais
-
-Os dados utilizados para treinamento, validação e avaliação dos modelos, assim como os arquivos de pesos dos modelos treinados, deverão possuir suas respectivas descrições e orientações de acesso.
-
-A disponibilização de conjuntos de dados e modelos deverá respeitar as condições de uso, armazenamento e compartilhamento aplicáveis a cada recurso.
-
-## 10. Considerações finais
+## 6. Considerações finais
 
 O SVC constitui uma plataforma de integração dos métodos computacionais desenvolvidos para análise de imagens aéreas, reunindo recursos para gerenciamento de missões, processamento por modelos de Inteligência Artificial, consulta dos resultados e visualização de informações georreferenciadas.
 
 A organização modular permite utilizar os métodos de segmentação e detecção de forma complementar, mantendo os resultados associados às respectivas missões e facilitando sua inspeção e interpretação.
 
-## 11. Autor e desenvolvimento
+## 7. Autor e desenvolvimento
 
-Projeto desenvolvido no contexto de pesquisa de doutorado na área de Computação, com foco na aplicação de métodos computacionais e Inteligência Artificial para análise de imagens aéreas e identificação de potenciais focos relacionados à proliferação do mosquito *Aedes aegypti*.
+Projeto desenvolvido no contexto de pesquisa de doutorado, com foco na aplicação de métodos computacionais e Inteligência Artificial para análise de imagens aéreas e identificação de potenciais focos relacionados à proliferação do mosquito *Aedes aegypti*.
 
 **Autor:** Gustavo Araújo
 
-**Projeto:** Sistema de Visão Computacional (SVC)
+**Projeto:** Sistema de Visão Computacional 
