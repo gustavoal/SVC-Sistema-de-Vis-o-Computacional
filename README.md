@@ -1,6 +1,6 @@
 # SVC — Sistema de Visão Computacional
 
-Sistema de Visão Computacional (SVC) desenvolvido no contexto de uma pesquisa de doutorado, com o objetivo de integrar métodos computacionais para análise de imagens aéreas obtidas por veículos aéreos não tripulados (VANTs/drones), visando à identificação de potenciais focos relacionados à proliferação do mosquito *Aedes aegypti*.
+Sistema de Visão Computacional (SVC) desenvolvido no contexto de uma pesquisa de doutorado, com o objetivo de integrar métodos computacionais para análise de imagens aéreas obtidas por drones, visando à identificação de potenciais focos relacionados à proliferação do mosquito *Aedes aegypti*.
 
 A plataforma disponibiliza uma interface para gerenciamento de missões, execução de modelos de Inteligência Artificial, visualização dos resultados e análise espacial de objetos e cenários identificados nas imagens.
 
